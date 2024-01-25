@@ -9,61 +9,61 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FinalExamYusif
 build_property.RootNamespace = FinalExamYusif
-build_property.ProjectDir = C:\Users\CA.R215.19\Desktop\FinalExamYusif\
+build_property.ProjectDir = C:\Users\CA.R215.19\Desktop\ImtahanAb104Yusif\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\CA.R215.19\Desktop\FinalExamYusif
+build_property.MSBuildProjectDirectory = C:\Users\CA.R215.19\Desktop\ImtahanAb104Yusif
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/CA.R215.19/Desktop/FinalExamYusif/Areas/Admin/Views/Account/Login.cshtml]
+[C:/Users/CA.R215.19/Desktop/ImtahanAb104Yusif/Areas/Admin/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/CA.R215.19/Desktop/FinalExamYusif/Areas/Admin/Views/Account/Register.cshtml]
+[C:/Users/CA.R215.19/Desktop/ImtahanAb104Yusif/Areas/Admin/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/CA.R215.19/Desktop/FinalExamYusif/Areas/Admin/Views/Home/Index.cshtml]
+[C:/Users/CA.R215.19/Desktop/ImtahanAb104Yusif/Areas/Admin/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/CA.R215.19/Desktop/FinalExamYusif/Areas/Admin/Views/Service/Create.cshtml]
+[C:/Users/CA.R215.19/Desktop/ImtahanAb104Yusif/Areas/Admin/Views/Service/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VydmljZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/CA.R215.19/Desktop/FinalExamYusif/Areas/Admin/Views/Service/Index.cshtml]
+[C:/Users/CA.R215.19/Desktop/ImtahanAb104Yusif/Areas/Admin/Views/Service/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VydmljZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/CA.R215.19/Desktop/FinalExamYusif/Areas/Admin/Views/Service/Update.cshtml]
+[C:/Users/CA.R215.19/Desktop/ImtahanAb104Yusif/Areas/Admin/Views/Service/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VydmljZVxVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/CA.R215.19/Desktop/FinalExamYusif/Areas/Admin/Views/Shared/_Layout.cshtml]
+[C:/Users/CA.R215.19/Desktop/ImtahanAb104Yusif/Areas/Admin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/CA.R215.19/Desktop/FinalExamYusif/Areas/Admin/Views/_ViewImports.cshtml]
+[C:/Users/CA.R215.19/Desktop/ImtahanAb104Yusif/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/CA.R215.19/Desktop/FinalExamYusif/Areas/Admin/Views/_ViewStart.cshtml]
+[C:/Users/CA.R215.19/Desktop/ImtahanAb104Yusif/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/CA.R215.19/Desktop/FinalExamYusif/Views/Home/Index.cshtml]
+[C:/Users/CA.R215.19/Desktop/ImtahanAb104Yusif/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/CA.R215.19/Desktop/FinalExamYusif/Views/Shared/_Layout.cshtml]
+[C:/Users/CA.R215.19/Desktop/ImtahanAb104Yusif/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/CA.R215.19/Desktop/FinalExamYusif/Views/_ViewImports.cshtml]
+[C:/Users/CA.R215.19/Desktop/ImtahanAb104Yusif/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/CA.R215.19/Desktop/FinalExamYusif/Views/_ViewStart.cshtml]
+[C:/Users/CA.R215.19/Desktop/ImtahanAb104Yusif/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

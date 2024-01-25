@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CA.R215.19\\Desktop\\FinalExamYusif\\FinalExamYusif.csproj": {}
+    "C:\\Users\\CA.R215.19\\Desktop\\ImtahanAb104Yusif\\FinalExamYusif.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CA.R215.19\\Desktop\\FinalExamYusif\\FinalExamYusif.csproj": {
+    "C:\\Users\\CA.R215.19\\Desktop\\ImtahanAb104Yusif\\FinalExamYusif.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CA.R215.19\\Desktop\\FinalExamYusif\\FinalExamYusif.csproj",
+        "projectUniqueName": "C:\\Users\\CA.R215.19\\Desktop\\ImtahanAb104Yusif\\FinalExamYusif.csproj",
         "projectName": "FinalExamYusif",
-        "projectPath": "C:\\Users\\CA.R215.19\\Desktop\\FinalExamYusif\\FinalExamYusif.csproj",
+        "projectPath": "C:\\Users\\CA.R215.19\\Desktop\\ImtahanAb104Yusif\\FinalExamYusif.csproj",
         "packagesPath": "C:\\Users\\CA.R215.19\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CA.R215.19\\Desktop\\FinalExamYusif\\obj\\",
+        "outputPath": "C:\\Users\\CA.R215.19\\Desktop\\ImtahanAb104Yusif\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CA.R215.19\\AppData\\Roaming\\NuGet\\NuGet.Config",

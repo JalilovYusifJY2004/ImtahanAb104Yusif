@@ -54,6 +54,7 @@ namespace FinalExamYusif.Areas.Admin.Controllers
         {
             return View();
         }
+        [HttpPost]
         public async Task<IActionResult> Login(LoginVM loginVM)
         {
             if (!ModelState.IsValid)
